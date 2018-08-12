@@ -1,0 +1,2 @@
+NumThreads	NumeroMaximo	StartTime	ElapsedTime	MeanUtilization
+9999	80000	1533781474086	7632	0.8797658198322206
